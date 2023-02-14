@@ -2,6 +2,61 @@
   "flakes": [
     {
       "from": {
+        "id": "shadowrylander",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "shadowrylander",
+        "repo": "shadowrylander",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "sylvorg",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "sylvorg",
+        "repo": "sylvorg",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "syvlorg",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "syvlorg",
+        "repo": "syvlorg",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "siluam",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "siluam",
+        "repo": "siluam",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "bundle",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "sylvorg",
+        "repo": "bundle",
+        "type": "github"
+      }
+    }
+    {
+      "from": {
         "id": "agda",
         "type": "indirect"
       },

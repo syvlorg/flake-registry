@@ -54,7 +54,7 @@
         "repo": "bundle",
         "type": "github"
       }
-    }
+    },
     {
       "from": {
         "id": "agda",
